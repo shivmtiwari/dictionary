@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bookmarkWrapper{
+    background-color: whitesmoke;
+    min-height: 100vh;
+}
+
+
+
+
+.bookmarkWrap {
+    text-decoration: none !important;
+    color: #131313;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+.container span {
+    margin-left: 1rem;
+    font-size: 20px;
+    margin-bottom: 1rem;
+
+}
+.bookmarkWrap{
+    background-color: #ffffff;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    font-size: .9rem;
+    border-radius: 6px;
+   
+    
+}
+
+.container i{
+    border: none; 
+    padding: 7px 8px;
+    border-radius: 50px;
+    transition: .5s all;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.container i:hover{
+    background-color: rgb(222, 222, 222);
+ }
+
+ .head{
+    margin-bottom: 1rem;
+ }
